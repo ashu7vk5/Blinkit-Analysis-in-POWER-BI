@@ -1,3 +1,4 @@
+![BLINKIT ANALYSIS](https://github.com/user-attachments/assets/3323f081-db83-443e-a5d4-31cd9190e4b5)
 # Blinkit-Analysis-in-POWER-BI
 The Blinkit Analysis dashboard, created in Power BI, provides an in-depth analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution. This powerful tool offers key insights and KPI visualizations to help understand various aspects of the business.
 
